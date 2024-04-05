@@ -1,4 +1,4 @@
-State,Per_Capita_Income,Poverty_Percentage,Unemployment_Rate,Carpool_Estimate,Work_Estimate,Married_Percent,Self-Employ_Estimate,Social_Security_Estimate,Education_Estimate
+State,per_capita_income,Poverty_Percentage,Unemployment_Rate,Carpool_Estimate,mean_travel_time_to_work,Married_Percent,Self-Employ_Estimate,Social_Security_Estimate,Education_Estimate
 AL,"30,458",15.8,5.400696864111499,"177,167",25.2,5.1,"119,566","678,923",42643
 AK,"39,236",10.4,6.918238993710692,"41,473",19.5,3.5,"22,208","63,037",2377
 AZ,"34,644",13.5,5.647840531561462,"325,297",25.7,5.4,"194,428","901,976",71571
