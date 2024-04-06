@@ -1,13 +1,2 @@
 # SpringData2024
-The repository for Correlation One/Citadel/Citadel Securities' 2024 US Spring Invitational Datathon -
-Team 3 - California Institute of Technology.
-
-Team -
-
-Michael Chen
-
-Rayhan Zirvi
-
-Edward Ju
-
-Saikhanbileg Tsogtgerel
+The repository for Correlation One/Citadel/Citadel Securities' 2024 US Spring Invitational Datathon - Team 3 - California Institute of Technology.
