@@ -3,7 +3,11 @@ The repository for Correlation One/Citadel/Citadel Securities' 2024 US Spring In
 Team 3 - California Institute of Technology.
 
 Team -
+
 Michael Chen
+
 Rayhan Zirvi
+
 Edward Ju
+
 Saikhanbileg Tsogtgerel
