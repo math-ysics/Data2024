@@ -1,2 +1,1 @@
-# SpringData2024
-The repository for Correlation One/Citadel/Citadel Securities' 2024 US Spring Invitational Datathon - Team 3 - California Institute of Technology.
+Data2024 - Statistics on renewable energy development and public sentiment contrasted among different states and rural/urban areas.
